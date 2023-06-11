@@ -1,2 +1,0 @@
-# potifolio
-Portifólio do desenvolvedor
